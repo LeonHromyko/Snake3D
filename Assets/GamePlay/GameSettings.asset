@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b63c794fb47a05a468394e09ce662594, type: 3}
+  m_Name: GameSettings
+  m_EditorClassIdentifier: 
+  _tickTime: 0.3
+  _gameFieldCellPrefab: {fileID: 126866118744897049, guid: 0752b89a3cf3f6b4ba2b86bedab95642,
+    type: 3}
+  _gameFieldSize: 15
+  _gameFieldCellSize: 1
+  _snakesCount: 2
+  _snakeStartLength: 3
+  _snakePrefab: {fileID: 4257155349223400031, guid: b8a2e883e9c6e3a4aa618123bc919e9b,
+    type: 3}
+  _snakePartPrefab: {fileID: 7575717569729416224, guid: 229006bc2cb989f40b8bcfce127553b7,
+    type: 3}
+  _foodCount: 200
+  _foodPrefab: {fileID: 4281253745251062151, guid: 13e3820313c4ee549a96a128f1bcb906,
+    type: 3}
